@@ -1,0 +1,16 @@
+html {
+  font-size: $f-base-size;
+}
+
+.introduction-section {
+  background-color: $main-color;
+  .col-one {
+    font-size: rem(24px);
+  }
+  .col-two {
+    background-color: #fff;
+  }
+  .col-three {
+    background-color: #ccc;
+  }
+}
